@@ -1,0 +1,10 @@
+{
+  "_comment": "リサーチ工程の出力例。asin には Amazon で実在を確認した ASIN を入れてください（空欄の候補は読み込み時にスキップされます）。",
+  "candidates": [
+    {"asin": "", "name": "大人用 介護食事エプロン 防水 2枚組", "category": "介護用品", "estimated_price": 2480, "estimated_profit_margin": 41.4, "reason": "高齢化で需要が続く消耗品で、おしゃれな中価格帯の選択肢が少ない", "priority": 1},
+    {"asin": "", "name": "ペット用 骨壷カバー メモリアルセット 4寸", "category": "ペット用品", "estimated_price": 4980, "estimated_profit_margin": 41.1, "reason": "手元供養のニーズに、骨壷・カバー・写真立てを一式でそろえられる", "priority": 2},
+    {"asin": "", "name": "車椅子用 収納バッグ 背面・アームレスト 2点セット", "category": "介護用品", "estimated_price": 2480, "estimated_profit_margin": 44.0, "reason": "レンタル車椅子にも取り付けられ、通院や外出時の荷物をまとめられる", "priority": 3},
+    {"asin": "", "name": "トレカ 壁掛けディスプレイフレーム マグネットローダー対応 9枚", "category": "ホビー", "estimated_price": 2980, "estimated_profit_margin": 35.4, "reason": "ローダーに入れたままカードを飾れる", "priority": 4},
+    {"asin": "", "name": "レオパ用 ウェットシェルター 素焼き Mサイズ", "category": "ペット用品", "estimated_price": 2280, "estimated_profit_margin": 34.3, "reason": "湿度を保って脱皮を助ける、レオパ飼育の必需品", "priority": 5}
+  ]
+}
